@@ -4,8 +4,6 @@
 
 BoltPOS is a Progressive Web App (PWA) built to solve real-world connectivity issues. It allows merchants to manage products, process sales, and generate LNURL-Pay invoices directly on the device, syncing only when a connection is available.
 
-![BoltPOS Demo](https://github.com/LuisRM-btc/bolt-pos-bitcoin/raw/main/public/demo-screenshot.png) 
-*(Note: You can add a screenshot of your app here later)*
 
 ## 🚀 Key Features
 
